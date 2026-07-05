@@ -111,7 +111,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/binance-square-poster.git
+git clone https://github.com/hanazlamuhammad822-wq/binance-square-auto-poster.git
 cd binance-square-poster
 ```
 
